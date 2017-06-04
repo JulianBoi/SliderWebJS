@@ -4,27 +4,11 @@
     overflow: hidden;
 }
 .box_container{
-    background-color: red;
-    width: 2400px; 
     height: 500px;
     position: relative;
-    /* Deplacement du slider */
-    right:850px; 
+    right:0px; 
 }
-.img1{
-    background-color: aqua;
-    width: 800px;
-    height: 100%;
-    float: left;
-}
-.img2{
-    background-color: orange;
-    width: 800px;
-    height: 100%;
-    float: left;
-}
-.img3{
-    background-color: violet;
+.imgContainer{
     width: 800px;
     height: 100%;
     float: left;
