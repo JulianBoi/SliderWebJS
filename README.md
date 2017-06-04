@@ -1,7 +1,7 @@
 # SliderWebJS
 Slider personnalisé.
 ### Description
-Dans ce slider :<return>
+###### Dans ce slider : 
     * Fonctionnalités Suivant/Précédent.
     * Déplacement de gauche à droite.
     * Déplacement arrivé à la fin retour de droite à gauche.
